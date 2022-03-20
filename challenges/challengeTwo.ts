@@ -31,7 +31,7 @@
  */
 
 import { UsageEvent } from './types/Profile';
-import { Switched } from './types/State';
+import { Switched } from './types/Switched';
 import { getUsageFromProfile } from './getUsageFromProfile';
 
 export const calculateEnergySavings = ({

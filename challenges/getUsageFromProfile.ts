@@ -5,7 +5,7 @@ import {
   MIN_IN_PERIOD,
 } from '../common/constants';
 import { UsageEvent } from './types/Profile';
-import { Switched } from './types/State';
+import { Switched } from './types/Switched';
 
 export function getUsageFromProfile(
   events: UsageEvent[],

@@ -24,7 +24,7 @@
  * been given for the month.
  */
 
-import { Switched } from './types/state';
+import { Switched } from './types/Switched';
 import { UsageEvent } from './types/Profile';
 import { getUsageFromProfile } from './getUsageFromProfile';
 
